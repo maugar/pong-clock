@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9BEAF3DE-EF80-436F-A60F-EA7F64875AF5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PongClock</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7B42AA68-8AD4-48BC-BFAB-A1F45F3FFFC6</key>
+		<string>svn://ec2-46-51-137-47.eu-west-1.compute.amazonaws.com/repository/EmpaticaRealTime/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Misc/PongClock/PongClock.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7B42AA68-8AD4-48BC-BFAB-A1F45F3FFFC6</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>7B42AA68-8AD4-48BC-BFAB-A1F45F3FFFC6</key>
+		<string>svn://ec2-46-51-137-47.eu-west-1.compute.amazonaws.com</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://ec2-46-51-137-47.eu-west-1.compute.amazonaws.com/repository/EmpaticaRealTime/trunk/Misc/PongClock/PongClock.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7B42AA68-8AD4-48BC-BFAB-A1F45F3FFFC6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7B42AA68-8AD4-48BC-BFAB-A1F45F3FFFC6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Workspace</string>
+		</dict>
+	</array>
+</dict>
+</plist>
