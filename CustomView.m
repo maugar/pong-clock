@@ -290,12 +290,12 @@
     
     if (m!=newM) {
         //m=newM;
-        p2ShouldLose=YES;
+        p1ShouldLose=YES;
         //NSLog(@"P2 IS GONNA LOSE!");
         if(h!=newH){
             //h=newH;
             //NSLog(@"P1 IS GONNA LOSE!");
-            p1ShouldLose=YES;
+            p2ShouldLose=YES;
         }
     }
 }
